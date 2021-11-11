@@ -6,7 +6,7 @@
 * WebdriverManager
 ### Project Design:
 * Page Object Model (POM) design pattern
-* Fluent design approach (method chaining)
+* Fluent design approach
 ### How to run the project main test cases locally:
 * Simply import this project to your eclipse (or favorite JAVA IDE) 
 * You Can find the test cases in the *src/test/java* folder mainly.
