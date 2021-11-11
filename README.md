@@ -1,7 +1,5 @@
 # Guru99.Bank.Project
 * This is Sample Project to test Guru99 Bank using Selenium webdriver
-* ### The main Frameworks included in the project:
-
 ### The main Frameworks included in the project:
 * Selenium webdriver 
 * TestNG
